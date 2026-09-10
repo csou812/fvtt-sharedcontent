@@ -11,7 +11,7 @@
   },
   "url": "https://github.com/csou812/fvtt-sharedcontent",
   "manifest": "https://github.com/csou812/fvtt-sharedcontent/releases/latest/download/module.json",
-  "download": "https://github.com/github.com/csou812/fvtt-sharedcontent/releases/latest/download/sharedcontent.zip",
+  "download": "https://github.com/csou812/fvtt-sharedcontent/releases/latest/download/sharedcontent.zip",
   "packs": [
     {
       "name": "fvtt-meh",
